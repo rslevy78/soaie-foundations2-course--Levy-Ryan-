@@ -11,10 +11,10 @@ Learners will fork this repo, clone their fork locally, and use it as the starti
 ## Seeded lab content
 - `meeting-notes/20260706-release-planning-summary.md`
 - `backlog/epic-reporting.md`
-- `backlog/user-stories/us-101-export-customer-report.md`
-- `backlog/user-stories/us-102-sort-report-columns.md`
-- `backlog/user-stories/us-103-save-report-filters.md`
-- `src/report-columns.js`
+- `backlog/user-stories/us-101-sprint-health-summary.md`
+- `backlog/user-stories/us-102-risk-and-blockers-queue.md`
+- `backlog/user-stories/us-103-cycle-time-by-status.md`
+- `src/delivery-signals.js`
 
 These seeds are intentionally themed to the Delivery Dashboard capstone context so the Module 2 scenario carries meaningful continuity into Module 5.
 
