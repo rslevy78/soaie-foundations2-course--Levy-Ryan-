@@ -1,6 +1,6 @@
 # Facilitator Setup Checklist
 
-Use this checklist before learners begin Module 2 and when preparing continuity into Modules 3-5.
+Use this checklist before learners begin Module 2.
 
 ## Required before Module 2 lab
 
@@ -26,10 +26,7 @@ Use this checklist before learners begin Module 2 and when preparing continuity 
   - leave comment
   - approve and merge
 
-## Continuity into Modules 3-5
+## Optional continuity into capstone
 
-- Module 3 starter artifacts: `specs/module-3/`.
-- Module 4 connection notes: `integrations/module-4/`.
-- Module 5 capstone seeds: `capstone/module-5/`.
-
-The goal is one continuous learner repo journey rather than disconnected module-only exercises.
+- Use `docs/module-2-to-capstone-bridge.md` to point learners from Module 2 artifacts into Module 5 ideation.
+- Keep this source repo focused on Module 2 so setup stays lightweight for facilitators and learners.

@@ -16,17 +16,14 @@ Learners will fork this repo, clone their fork locally, and use it as the starti
 - `backlog/user-stories/us-103-save-report-filters.md`
 - `src/report-columns.js`
 
-## Cross-module continuity assets
+## Module 2 facilitator assets
 - `lab-assets/module-2/canned-review-comment.md`
-- `specs/module-3/spec-template.md`
-- `integrations/module-4/connection-notes.md`
-- `capstone/module-5/` (seed data and starter context)
+- `docs/facilitator-setup-checklist.md`
 
-## Suggested learner journey
-1. Module 2: fork this repo, clone locally, complete branch/commit/PR/review workflow.
-2. Module 3: use `specs/module-3/spec-template.md` to define the build target.
-3. Module 4: document external-system setup in `integrations/module-4/connection-notes.md`.
-4. Module 5: build from one capstone seed in `capstone/module-5/` and evolve from there.
+## Light continuity into capstone
+- `docs/module-2-to-capstone-bridge.md`
+
+This repo is intentionally scoped to Module 2 delivery. The bridge note captures how Module 2 artifacts can inform Module 5 without turning this into a full cross-module content repo.
 
 ## Facilitator flow
 - Keep the repo forkable so learners can create their own copy.
