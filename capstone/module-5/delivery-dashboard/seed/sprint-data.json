@@ -1,0 +1,31 @@
+{
+  "sprint": "Sprint 24",
+  "sprintStart": "2026-07-01",
+  "sprintEnd": "2026-07-14",
+  "stories": [
+    {
+      "id": "US-101",
+      "title": "Export customer report",
+      "status": "In Progress",
+      "blocked": false,
+      "storyPoints": 5,
+      "updatedAt": "2026-07-05"
+    },
+    {
+      "id": "US-102",
+      "title": "Sort report columns",
+      "status": "Blocked",
+      "blocked": true,
+      "storyPoints": 3,
+      "updatedAt": "2026-07-03"
+    },
+    {
+      "id": "US-103",
+      "title": "Save report filters",
+      "status": "Done",
+      "blocked": false,
+      "storyPoints": 3,
+      "updatedAt": "2026-07-06"
+    }
+  ]
+}

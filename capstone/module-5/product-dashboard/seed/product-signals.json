@@ -1,0 +1,19 @@
+{
+  "period": "2026-Q2",
+  "activeUsers": [
+    { "week": "2026-06-09", "count": 420 },
+    { "week": "2026-06-16", "count": 438 },
+    { "week": "2026-06-23", "count": 452 },
+    { "week": "2026-06-30", "count": 446 }
+  ],
+  "featureUsage": [
+    { "feature": "Report Export", "weeklyUsers": 220 },
+    { "feature": "Saved Filters", "weeklyUsers": 146 },
+    { "feature": "Column Sorting", "weeklyUsers": 310 }
+  ],
+  "feedback": [
+    { "source": "NPS", "note": "Export is helpful but missing invoice context" },
+    { "source": "Support", "note": "Users request easier filter presets" },
+    { "source": "Interview", "note": "Team wants weekly trend snapshots" }
+  ]
+}
