@@ -1,5 +1,6 @@
-export const reportColumns = [
-  "customerName",
-  "amount",
-  "date"
+export const deliverySignals = [
+  "plannedStoryPoints",
+  "completedStoryPoints",
+  "blockedItems",
+  "carryoverRisk"
 ];

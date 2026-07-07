@@ -1,8 +1,8 @@
-# US-101: Export customer report
+# US-101: Sprint health summary
 
-As a customer support lead, I want to export the customer report so I can share it with the team.
+As a solution owner, I want a sprint health summary so I can quickly see whether the sprint is on track, at risk, or off track.
 
 ## Acceptance criteria
-- The export includes customer name, amount, and date.
-- The file downloads as CSV.
-- The export works from the report page.
+- The summary shows a single health verdict (On Track, At Risk, Off Track).
+- The summary includes the key signals used for the verdict (planned vs done, blocked count, carryover risk).
+- The health verdict updates when sprint source data changes.

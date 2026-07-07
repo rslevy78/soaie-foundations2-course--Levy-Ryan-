@@ -1,8 +1,8 @@
-# US-102: Sort report columns
+# US-102: Risk and blockers queue
 
-As an analyst, I want to sort report columns so I can scan the data quickly.
+As a solution owner, I want a prioritized blockers queue so I can focus on the items most likely to put sprint delivery at risk.
 
 ## Acceptance criteria
-- The user can sort by customer name.
-- The user can sort by amount.
-- The user can sort by date.
+- Blocked work items are listed with owner, age in blocked status, and current status.
+- Items blocked longer than two days are highlighted as high risk.
+- The queue is sorted by risk priority so highest-risk items appear first.

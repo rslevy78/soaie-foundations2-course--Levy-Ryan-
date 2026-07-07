@@ -1,8 +1,8 @@
-# US-103: Save report filters
+# US-103: Cycle time by status
 
-As an analyst, I want to save a set of report filters so I can reuse them later.
+As a solution owner, I want cycle time by status so I can spot where work is stalling in the sprint flow.
 
 ## Acceptance criteria
-- The user can save a filter set.
-- The user can load a saved filter set.
-- The user can remove a saved filter set.
+- Cycle time is shown for each status (New, In Progress, In Testing, Blocked, Done).
+- The view highlights statuses with the highest average time.
+- The view refreshes when sprint item status history changes.

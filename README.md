@@ -16,6 +16,8 @@ Learners will fork this repo, clone their fork locally, and use it as the starti
 - `backlog/user-stories/us-103-save-report-filters.md`
 - `src/report-columns.js`
 
+These seeds are intentionally themed to the Delivery Dashboard capstone context so the Module 2 scenario carries meaningful continuity into Module 5.
+
 ## Module 2 facilitator assets
 - `lab-assets/module-2/canned-review-comment.md`
 - `docs/facilitator-setup-checklist.md`
